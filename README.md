@@ -1,0 +1,1 @@
+### The document demonstrates high-level system architcture of an AI web app. It illustrates the system interfaces, components and data flows between these interfaces for the application to function seamlessly.
