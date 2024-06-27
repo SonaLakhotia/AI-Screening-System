@@ -10,3 +10,7 @@ This repository contains the backend components for a screening process designed
 4. **Analysis Results**: The AI engine returns the analysis results to the backend server.
 5. **Notification Trigger**: The backend server initiates the notification system to send an email to the applicant.
 6. **Email Notification**: The notification system sends an email to the applicant regarding their application status.
+
+
+![image](https://github.com/SonaLakhotia/System-Architecture/assets/169345257/ffa5028e-a2b7-4c83-a79c-1fdf5fb693e3)
+
